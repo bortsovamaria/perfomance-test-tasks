@@ -1,0 +1,17 @@
+{
+  "values": [
+    {
+      "id": 5321,
+      "title": "Confidentiality",
+      "value": ""
+    },
+    {
+      "id": 5322,
+      "title": "Integrity",
+      "value": ""
+    }
+  ],
+  "id": 122,
+  "title": "Security test",
+  "value": "failed"
+}
